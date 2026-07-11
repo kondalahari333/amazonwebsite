@@ -15,7 +15,7 @@ A responsive Amazon homepage clone built using <b>HTML</b> and<b>CSS</b>.This pr
 -Flexbox
 -CSS Grid
 -Responsive Design<br>
-<b>Future IMprovements</b>
+<b>Future Improvements</b>
 -Add javascript functionality
 -Product Search
 -Shopping Cart
